@@ -1,0 +1,101 @@
+.nav{
+	background-color:black;
+}
+body{
+	background-color: #f0ed84;
+	padding-top: 50px;
+}
+footer {
+	color:#767676
+}
+
+#first{
+	margin-left: 500px;
+	background-color: #9a383a;
+}
+.nav li a:hover{
+	background-color: #9a383a;
+}
+.nav li a:focus{
+	background-color: #9a383a;
+}
+.nav li{
+	margin-left: 40px;
+}
+.nav li a{
+	color: #30cf94;
+}
+.nav-tabs > li.active > a{
+	background-color: black;
+	color:red;
+}
+div.alert.alert-info{
+	margin:15px 200px; 
+	width:760px;
+	font-size:200%;
+}
+li.list-group-item:hover{
+	background-color:#3399ff;
+}
+.item.car{
+	width: 1215px;
+	height: 717px;
+}
+.heading{
+	text-align: center;
+	text-decoration: bold;
+	display: block;
+	font-size:40px;
+	padding-top: 10px;
+	clear:both;
+	color:red;
+}
+#carousel-example-generic{
+	width:1117px;
+	margin: 80px 160px 80px;
+}
+.pics:hover{
+	background-image:url('http://img09.deviantart.net/6825/i/2015/142/a/b/kawaii_dinosaur_by_peppermint_pop_uk-d8uaaiv.jpg');
+}
+ul.navbar{
+	margin-left: 560px;
+	width: 780px;
+}
+
+div.header{
+	background-color: green;
+	color:white;
+	width:365px;
+	height:1050px;
+	border: 2px solid white;
+	margin-left:-370px;
+}
+
+#new{
+	color: white;
+}
+#b1{
+	margin-bottom:200px;
+	margin-left: 13px;
+}
+.list-group-item{
+	background-color: #d9edf7;
+}
+
+#p2{
+	margin-left: 80px;
+}
+#pic1{
+	margin-left:60px;
+}
+
+.paras{
+	width:250px;
+	float:left;
+	margin-left: 190px;
+	font-family: Arial;
+}
+.pics{
+	width:300px;
+	margin-left: 140px;
+}

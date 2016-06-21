@@ -1,0 +1,42 @@
+body{
+	background-color: #327a49;
+	padding-top:70px;
+}
+.nav.navbar-nav{
+	background-color:black;
+
+}
+footer {
+	padding-top: 50px;
+	color: black;
+}
+.active{
+	background-color: #9a383a;
+}
+span a{
+	color: black;
+	font-size: 20px;
+}
+.glyphicon.glyphicon-phone-alt{
+	margin-right: 90px;
+}
+.glyphicon a:hover{
+	color: white;
+	text-decoration:none;
+}
+#first{
+	margin-left: 500px;
+}
+.nav li{
+	margin-left: 40px;
+}
+.nav li a{
+	color: #30cf94;
+}
+
+.nav li a:hover{
+	background-color: #9a383a;
+}
+.nav li a:focus{
+	background-color: #9a383a;
+}
